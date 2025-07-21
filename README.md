@@ -11,7 +11,7 @@ mhasara/mhasara is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi there, I'm Mhasara!
+# 👋 Hi there, I'm Asaraaaa!
 
 🚀 Passionate about software engineering, open source, and continuous learning.  
 🌱 Currently working with Python, JavaScript, and web technologies.  
