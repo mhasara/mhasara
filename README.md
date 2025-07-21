@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
 - 🧑‍💻 [GitHub](https://github.com/mhasara)
-- 📧 Email: your-email@example.com
+- 📧 Email:asaragamage109@gmail.com
