@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 🔗 **Connect with me:**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/m-h-asara-60a5362a6)https://www.linkedin.com/in/m-h-asara-60a5362a6)
 - 🧑‍💻 [GitHub](https://github.com/mhasara)
 - 📧 Email:asaragamage109@gmail.com
