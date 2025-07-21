@@ -28,12 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🧠 Most Used Languages
-> Based on your public repositories
 
-<!-- Optional, you can use third-party dashboards like GitHub Profile Summary Cards -->
-
----
 
 ## 👁‍🗨 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mhasara&label=VISITORS&color=0e75b6&style=flat)
