@@ -10,7 +10,7 @@
 mhasara/mhasara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Banner](https://raw.githubusercontent.com/mhasara/mhasara/main/banner.png)
+
 # 👋 Hi there, I'm Mhasara!
 
 🚀 Passionate about software engineering, open source, and continuous learning.  
