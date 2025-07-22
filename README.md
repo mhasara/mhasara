@@ -21,15 +21,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
-![Mhasara's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhasara&show_icons=true&theme=tokyonight&hide_title=false)
+![Mhasara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasara&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhasara&theme=tokyonight)
 
 ---
-
-
 
 ## 👁‍🗨 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mhasara&label=VISITORS&color=0e75b6&style=flat)
@@ -38,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 🔗 **Connect with me:**
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/m-h-asara-60a5362a6)
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-h-asara-60a5362a6)
 - 🧑‍💻 [GitHub](https://github.com/mhasara)
-- 📧 Email:asaragamage109@gmail.com
+- 📧 Email: asaragamage109@gmail.com
