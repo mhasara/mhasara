@@ -17,16 +17,6 @@ You can click the Preview link to take a look at your changes.
 🌱 Currently working with Python, JavaScript, and web technologies.  
 🎯 Always eager to contribute to exciting new projects and explore cutting-edge tools.
 
----
-
-
-
-
----
-
-
-
----
 
 ## 🛠 My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
