@@ -66,10 +66,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-## 🌟 Featured Projects
-- 🔧 [Project One]() — *Create ML use analyzer*
-- 🚀 [Project Two]() — *Research on medical ambulance Track and find best route*
-
 ---
 
 
