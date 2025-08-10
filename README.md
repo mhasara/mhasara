@@ -1,65 +1,60 @@
-# 👋 Hi there, I'm Asaraaaa!
-
-🚀 Passionate about **Software Engineering**, **Open Source**, and **Continuous Learning**.  
-🌱 Currently working with **Python**, **JavaScript**, and various **Web Technologies**.  
-🎯 Always eager to contribute to exciting new projects and explore cutting-edge tools.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Asaraaaa</h1>
+<h3 align="center">🚀 Passionate Software Engineering Student | Open Source Enthusiast | Lifelong Learner</h3>
 
 ---
 
-## 👀 About Me
-- 💻 I'm an undergraduate **BSc in Software Engineering** student at **NSBM Green University**  
-- 🌱 Currently learning and building projects in **Python, JavaScript, and Web Development**  
-- 💞️ Open to collaborating on **open-source projects, web apps, and creative software solutions**  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hasini-asara-60a5362a6)  
+### 👀 About Me
+- 💻 Undergraduate **BSc in Software Engineering** student at **NSBM Green University**
+- 🌱 Currently learning **Python, JavaScript, and Web Development**
+- 💞️ Open to collaborating on **open-source projects, web apps, and creative software solutions**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hasini-asara-60a5362a6)
 - ⚡ Fun fact: *I eat when I'm sad — but hey, that’s how bugs get fixed sometimes!* 🐛🍫
 
 ---
 
-## 🔥 Daily GitHub Streak
-Show your current contribution streak and longest streak with the dynamic streak card:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhasara&theme=radical)
-
-> This card automatically shows your current streak & longest streak based on your GitHub contributions.
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhasara&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 Languages — Percentages (auto)
-This card automatically shows the percentage breakdown of languages used across your public repositories:
+### 📊 Language Usage (with Percentages)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&layout=default&theme=radical&langs_count=6)
-
-> If you prefer a compact bar view, swap `layout=default` with `layout=compact`.
-
----
-
-## 📈 GitHub Stats
-![Asara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasara&show_icons=true&theme=radical)
-
----
-
-## 💡 Tip — make the streak more visible (optional)
-If you want a textual badge for your current streak (nice in a header), you can add a small custom badge using a GitHub Action that updates a repo badge file. If you'd like, I can:
-- provide a ready-to-use GitHub Action that updates a `streak-badge.svg` daily, or
-- fetch your current language percentages and render neat progress bars in the README.
+<!-- You can adjust these manually if needed -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-25%25-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-5%25-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/hasini-asara-60a5362a6  
-- GitHub: https://github.com/mhasara
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhasara&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
 ---
 
-*"Learning never exhausts the mind." — Leonardo da Vinci*
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasini-asara-60a5362a6"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/mhasara"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+> *"Learning never exhausts the mind." — Leonardo da Vinci*
