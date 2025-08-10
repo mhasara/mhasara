@@ -21,22 +21,15 @@
 ---
 
 ### 🛠 My Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,cs,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 Language Usage (with Percentages)
-
-<!-- You can adjust these manually if needed -->
+### 📊 Language Usage (auto-updated daily)
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-25%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-10%25-red?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-5%25-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/mhasara/mhasara/main/languages.svg" alt="Language percentages" />
 </p>
 
 ---
@@ -58,3 +51,4 @@
 ---
 
 > *"Learning never exhausts the mind." — Leonardo da Vinci*
+
