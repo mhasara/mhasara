@@ -30,6 +30,8 @@
 ### 📊 Language Usage (auto-updated daily)
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhasara/mhasara/main/languages.svg" alt="Language percentages" />
+  ![Language percentages](https://raw.githubusercontent.com/mhasara/mhasara/main/languages.svg)
+
 </p>
 
 ---
