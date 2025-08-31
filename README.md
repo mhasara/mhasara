@@ -38,6 +38,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&langs_count=8&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="160"/>
 </p>
 
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhasara&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+
 ## 💡 Fun Projects
 
 - 🚀 Building mini-apps and automations for everyday problems
@@ -49,6 +54,10 @@
 - 🌱 Master new frameworks and technologies (AI, Cloud, DevOps)
 - 🌟 Contribute to impactful open-source projects
 - 💬 Grow as a communicator and collaborator
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mhasara&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Let's Connect!
 
