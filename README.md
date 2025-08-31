@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm HASINI ASARA!
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=wave&color=0:3b82f6,100:ffffff&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=35&desc=Undergraduate%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlign=60&descAlignY=60&fontColor=0A0A0A)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=rounded&color=0:3b82f6,100:ffffff&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=35&desc=Undergraduate%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlign=50&descAlignY=65&fontColor=0A0A0A)
 
 ## 🚀 About Me
 
