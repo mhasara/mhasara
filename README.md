@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm HASINI ASARA!
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=wave&color=0:67e8f9,100:6366f1&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=35&desc=Undergraduate%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlign=60&descAlignY=60)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=wave&color=0:3b82f6,100:ffffff&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=35&desc=Undergraduate%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlign=60&descAlignY=60&fontColor=0A0A0A)
 
 ## 🚀 About Me
 
@@ -32,8 +32,10 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhasara&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhasara&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasara&langs_count=8&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="160"/>
+</p>
 
 ## 💡 Fun Projects
 
@@ -56,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=6366F7&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together!;Tech+is+my+passion!;Always+learning!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together!;Tech+is+my+passion!;Always+learning!">
 </p>
